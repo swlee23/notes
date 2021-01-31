@@ -1,4 +1,4 @@
-#`explicit` keyword in c++
+# `explicit` keyword in c++
 ### date: 2021-01-31
 
 * `explicit` prohibits implicit conversion of a variable to a Queue class 
