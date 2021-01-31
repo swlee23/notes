@@ -1,5 +1,5 @@
 # 'explicit' keyword in C++
-## date: 2021-01-31
+### date: 2021-01-31
 
 * The 'delete' operator deallocates memory and calls the destructor for a 
 single object created with new. 
