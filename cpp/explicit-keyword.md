@@ -49,7 +49,7 @@ a variable led to implicit type conversion of the variable to an instance of
 the class automatically (as long as the default constructor function is 
 defined for one variable)
 
-* You can prevent this happeneing by using the `explicit` keyword. The code 
+* You can prevent this from happening by using the `explicit` keyword. The code 
 below will result in a compiliation error.
 
 ```cpp
