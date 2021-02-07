@@ -1,8 +1,12 @@
 # Creating virtual env
 
 - Using Git Bash
+
 ```bash
-py -m venv env #creating virtual env
+# creating virtual env
+py -m venv env 
+
+# activating
 source ./env/Scripts/activate
 ```
 
